@@ -1,0 +1,15 @@
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\bin\Debug\net5.0\Problem-10.exe
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\bin\Debug\net5.0\Problem-10.deps.json
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\bin\Debug\net5.0\Problem-10.runtimeconfig.json
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\bin\Debug\net5.0\Problem-10.runtimeconfig.dev.json
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\bin\Debug\net5.0\Problem-10.dll
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\bin\Debug\net5.0\ref\Problem-10.dll
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\bin\Debug\net5.0\Problem-10.pdb
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\obj\Debug\net5.0\Problem-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\obj\Debug\net5.0\Problem-10.AssemblyInfoInputs.cache
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\obj\Debug\net5.0\Problem-10.AssemblyInfo.cs
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\obj\Debug\net5.0\Problem-10.csproj.CoreCompileInputs.cache
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\obj\Debug\net5.0\Problem-10.dll
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\obj\Debug\net5.0\ref\Problem-10.dll
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\obj\Debug\net5.0\Problem-10.pdb
+C:\Users\Sadia\Desktop\Dev-Skill\Dev-Skill\Exam-02\Problem-10\obj\Debug\net5.0\Problem-10.genruntimeconfig.cache
