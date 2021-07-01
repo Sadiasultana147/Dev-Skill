@@ -6,12 +6,14 @@ namespace Problem_07
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var result = GetAB(10, 10.2);
+            
         }
-        public static void GetAB(int x, int y)
+        public static double GetAB(int x, double y)
         {
             int a = x + 10;
-            int b = y * 20;
+            double b = y * 20;
+            return (a + b);
         }
 
     }
